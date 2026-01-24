@@ -1,1 +1,1 @@
-This repository stores CC Certicates officially translated to BULGARIAN.
+This repository stores CC Certicates HTML officially translated to BULGARIAN.
